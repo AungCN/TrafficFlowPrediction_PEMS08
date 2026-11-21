@@ -1,0 +1,21 @@
+# R Packages Required (install via install.packages(readLines("requirements.txt")))
+abind
+astsa
+caret
+dplyr
+expsmooth
+fpp
+fpp2
+ggfortify
+ggplot2
+keras
+lmtest
+lubridate
+patchwork
+prophet
+quantmod
+readr
+reticulate
+tensorflow
+tidyr
+zoo

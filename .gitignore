@@ -1,0 +1,17 @@
+# macOS / Windows system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+Desktop.ini
+
+# R history, data, and RStudio session files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*.Rproj
+rsconnect/
